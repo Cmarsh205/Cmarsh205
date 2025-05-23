@@ -1,10 +1,12 @@
 # Hi there 👋, my name is Carter
 ## I am a student with GetCoding
-Hi, my name is Carter, I'm a new student with GetCoding. I'm hoping to expand my horizons and start a new career within my local tech sector. I have hopes to one day move into a position with game development as that is what I'm passionate about.
+Hi, my name is Carter, I'm a new student with GetBuilding. I'm hoping to expand my horizons and start a new career within my local tech sector. I have hopes to one day move into a position with game development as that is what I'm passionate about.
 
 
-- 🔭 I’m currently working on the first module for GetCoding 
-- 🌱 I’m currently learning HTML, CSS, JS 
+- 🔭 I have completed my first module: https://cmarsh205.github.io/BlockBuddy/
+- 😁 I am about to start my second module!
+- 🌱 I’m currently learning React
+  
 
 
 ## Skills:

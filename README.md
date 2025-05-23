@@ -2,12 +2,11 @@
 ## I am a student with GetCoding
 Hi, my name is Carter, I'm a new student with GetBuilding. I'm hoping to expand my horizons and start a new career within my local tech sector. I have hopes to one day move into a position with game development as that is what I'm passionate about.
 
-
-- 🔭 I have completed my first module: https://cmarsh205.github.io/BlockBuddy/
 - 😁 I am about to start my second module!
 - 🌱 I’m currently learning React
-  
 
+## Projects:
+- GetBuilding module 1: https://cmarsh205.github.io/BlockBuddy/
 
 ## Skills:
 * 💻 - HTML, CSS, JS

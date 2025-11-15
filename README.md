@@ -13,7 +13,7 @@ Hi, my name is Carter, I'm a new student with GetBuilding. I'm hoping to expand 
 * Languages - HTML, CSS, JavaScript, TypeScript
 * Frameworks - React, Node.js, Hono
 * Databases - PostgreSQL
-* Tools - Git, Jest
+* Tools - Git, Jest, Postman
 * Other - REST APIs
 
 ## Hobbies:

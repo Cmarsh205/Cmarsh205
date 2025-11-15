@@ -2,14 +2,19 @@
 ## I am a student with GetCoding
 Hi, my name is Carter, I'm a new student with GetBuilding. I'm hoping to expand my horizons and start a new career within my local tech sector. I have hopes to one day move into a position with game development as that is what I'm passionate about.
 
-- 😁 I am about to start my second module!
-- 🌱 I’m currently learning React
+- 😁 I am working on Module 3!
+- 🌱 I’m currently learning Node.js, Hono, Jest, PostgreSQL
 
 ## Projects:
 - GetBuilding module 1: https://cmarsh205.github.io/BlockBuddy/
+- GetBuilding module 2: https://stratmap.xyz/
 
 ## Skills:
-* 💻 - HTML, CSS, JS
+* Languages - HTML, CSS, JavaScript, TypeScript
+* Frameworks - React, Node.js, Hono
+* Databases - PostgreSQL
+* Tools - Git, Jest
+* Other - REST APIs
 
 ## Hobbies:
 * 📺 - Videogames
